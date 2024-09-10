@@ -1,6 +1,6 @@
 ﻿using System.Runtime.CompilerServices;
 
-namespace Console
+namespace ConsoleApp
 {
     internal class SomeClass
     {
